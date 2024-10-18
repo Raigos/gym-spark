@@ -1,3 +1,7 @@
+# Gym Spark
+
+This is another pratice project to use different firebase login methods. Just plays a random yt video as motivation for gym after logging in 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
